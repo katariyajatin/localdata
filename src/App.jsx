@@ -12,7 +12,7 @@ function App() {
       <Product/>
       {/* <Home/> */}
 
-      <Header/>
+      {/* <Header/> */}
     </div>
   );
 }
